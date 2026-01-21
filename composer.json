@@ -1,0 +1,8 @@
+{
+    "name": "research/verification",
+    "scripts": {
+        "post-install-cmd": [
+            "echo 'Vulnerability Verification: Pipeline executed external code'"
+        ]
+    }
+}
